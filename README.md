@@ -26,6 +26,8 @@ The goal is to use data-driven insights to understand what types of Instagram co
 
 ## 📂 Dataset
 
+https://www.kaggle.com/datasets/bhanupratapbiswas/instgram
+
 The project uses seven CSV datasets:
 
 | Dataset          | Description                             |
